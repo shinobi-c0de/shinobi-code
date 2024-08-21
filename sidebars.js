@@ -15,7 +15,7 @@
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
 
-  docSidebar: [
+  /*docSidebar: [
     'introduction',
     'getting-started',
     'handsign',
@@ -39,7 +39,7 @@ const sidebars = {
         }
       ]
     },
-  ],
+  ],*/
   
   // But you can create a sidebar manually
   /*

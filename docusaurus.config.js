@@ -37,6 +37,7 @@ const config = {
     locales: ['en'],
   },
 
+
   presets: [
     [
       'classic',
@@ -91,7 +92,7 @@ const config = {
           srcDark: 'img/shinobi-light.png'
         },
         items: [
-          {
+          /*{
             type: 'docSidebar',
             sidebarId: 'docSidebar',
             label: 'Get Started',
@@ -103,7 +104,7 @@ const config = {
             label: 'FAQ',
             position: 'left',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},*/
           {
             to: `https://github.com/${organizationName}/${projectName}`,
             position: 'right',
@@ -115,7 +116,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
+        /*links: [
           {
             title: 'Docs',
             items: [
@@ -128,10 +129,10 @@ const config = {
           {
             title: 'Community',
             items: [
-              /*{
+              {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
-              },*/
+              },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
@@ -151,7 +152,7 @@ const config = {
               },
             ],
           },
-        ],
+        ],*/
         copyright: `Copyright © ${new Date().getFullYear()} Shinobi-Code. Built with ❤️ in this chaotic world.`,
       },
       prism: {

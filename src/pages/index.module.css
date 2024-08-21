@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.header {
+  background-color: #FF7F00;
+  color: black;
+  padding: 0.5rem 0;
+  text-align: center;
+  overflow: hidden;
+}

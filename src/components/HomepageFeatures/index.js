@@ -2,6 +2,9 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
+import myimage from '@site/static/img/naruto-jiraiya.jpg'
+import PlayAudio from './PlayAudio';
+
 const FeatureList = [
   {
     title: 'One Click Install',
@@ -51,11 +54,23 @@ function Feature({Svg, title, description}) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+      <div className={styles.wrapper}>
+        <div className={styles.bodycontainer}>
+          
+          {/*<div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>*/}
+
+          <h1>Coming Soon ...</h1>
+          <p>Meanwhile listen and enjoy to this masterpiece.</p>
+          <div className={`${styles.row} ${styles.imgcontainer}`}>
+            <img className={styles.image} src={myimage} alt="Naruto and Jiraiya Sensei" title="Source: Google Images"></img>
+          </div>
+          <div>
+            <PlayAudio />
+          </div>
         </div>
       </div>
     </section>
