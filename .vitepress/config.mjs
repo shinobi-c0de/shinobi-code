@@ -9,10 +9,11 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    home: 'coming-soon',
     logo: { light: '/shinobi-dark.png', dark: '/shinobi-light.png', alt: 'Shinobi Code Logo'},
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Get Started', link: '/markdown-examples' }
+      //{ text: 'Get Started', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -31,7 +32,7 @@ export default defineConfig({
 
     footer: {
       message: 'Built with ❤️ in this chaotic world. Built with <a href="https://vitepress.dev/" target="_blank">VitePress</a>',
-      copyright: 'Copyright © 2024-present <a href="https://github.com/shinobi-c0de" target="_blank">Shinobi Code</a>'
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://github.com/shinobi-c0de" target="_blank">Shinobi Code</a>`
     }
   }
 })
