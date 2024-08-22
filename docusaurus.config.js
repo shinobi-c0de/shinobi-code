@@ -105,7 +105,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            to: `https://github.com/${organizationName}/${projectName}`,
+            to: `https://github.com/${organizationName}/`,
             position: 'right',
             label: 'GitHub',
             className: "navbar--github-link",
@@ -147,7 +147,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/shinobi-c0de',
+                href: `https://github.com/${organizationName}/`,
               },
             ],
           },
