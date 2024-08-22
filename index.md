@@ -43,10 +43,12 @@ hero:
 </div>
 
 <script>
-  document.addEventListener('click', () => {
-    const audio = document.getElementById('myaudio');
-    if (audio) {
-      audio.play();
-    }
-  });
+  if (typeof window !== 'undefined' && typeof document !== 'undefined') {
+    document.addEventListener('click', () => {
+      const audio = document.getElementById('myaudio');
+      if (audio) {
+        audio.play();
+      }
+    });
+}
 </script>
