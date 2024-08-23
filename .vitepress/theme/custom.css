@@ -3,18 +3,7 @@
     --vp-c-brand-1: #FF7F00;
     --vp-c-brand-2: #F5A623;
     --vp-c-brand-3: #FF7F00;
-
-    --vp-nav-logo-height: 32px;
   }
-
-.hero {
-  background-color: orange;
-}
-
-.logo {
-  width: 32px; /* Adjust the width as needed */
-  height: auto; /* Maintain aspect ratio */
-}
 
 /* Adjust the size of the navbar title */
 .title:hover {

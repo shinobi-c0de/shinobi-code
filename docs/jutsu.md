@@ -1,6 +1,6 @@
 # Jutsu
 
-Jutsu (literal meaning: techniques/arts/skills)  
+Jutsu (**literal meaning: techniques/arts/skills**)  
 To use a ninjutsu, the ninja will form hand seals/hand signs.
 In  short, one or more hand signs form a Jutsu.
 
@@ -10,7 +10,7 @@ Following table represents each Jutsu, their type and handsigns that need to be 
 
 | S.No. | Jutsu                       | Type      | Hand Signs                                               | Remarks |
 | ----- | --------------------------- | --------- | -------------------------------------------------------- | ------- |
-| 1     | Shadow Clone Jutsu          | Jutsu     | Ram Snake Tiger                                          |         |
+| 1     | Shadow Clone Jutsu          | Jutsu     | Ram Snake Tiger                                          | Shadow clone seal (plus hand sign) is a special hand sign and is not a part of the handsigns mentioned in [Hand Sign](/docs/handsign), hence need to fine-tune model. Will do that in V2. For the time being, please use clone seal. |
 | 2     | Summoning Jutsu             | Jutsu     | Boar Dog Bird Monkey Ram                                 |         |
 | 3     | Reanimation Jutsu           | Jutsu     | Tiger Snake Dog Dragon Clap                              |         |
 | 4     | Release                     | Jutsu     | Tiger                                                    |         |
