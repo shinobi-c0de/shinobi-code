@@ -26,7 +26,7 @@ hero:
 
 
 <script setup>
-import FeatureList from '/src/components/FeatureList.vue'
+import Feature from '/src/components/Feature.vue'
 </script>
 
-<FeatureList/>
+<Feature />

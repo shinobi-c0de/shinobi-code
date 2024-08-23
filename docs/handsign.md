@@ -1,6 +1,6 @@
 # Hand Sign
 
-Shinobi-Code is capable of detecting all the below 12 handsigns plus the [Clap](https://naruto.fandom.com/wiki/Hand_Seal#Clap_Hands) handsign.
+Shinobi Code is capable of detecting all the below 12 handsigns plus the [Clap](https://naruto.fandom.com/wiki/Hand_Seal#Clap_Hands) handsign.
 
 ## Please refer to below image for the various handsigns:
 

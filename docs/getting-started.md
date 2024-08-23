@@ -4,7 +4,7 @@ For the time being, please use the demo webapp.
 
 ## Demo App
 
-**Note:** Shinobi-Code is still in Alpha stage, please use the temporary URL that is shared with you.
+**Note:** Shinobi Code is still in Alpha stage, please use the temporary URL that is shared with you.
 
 [Shinobi-Code-Demo](https://www.example.com)
 

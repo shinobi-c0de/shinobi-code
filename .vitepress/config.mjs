@@ -17,17 +17,23 @@ export default defineConfig({
     ],
 
     sidebar: [
-      {
-        text: 'Get Started',
-        items: [
-          { text: 'Introduction', link: '/docs/intro' },
-          { text: 'Getting Started', link: '/docs/getting-started' },
-          { text: 'Hand Sign', link: '/docs/handsign' },
-          { text: 'Jutsu', link: '/docs/jutsu' },
-          { text: 'Speech', link: '/docs/speech' },
-        ]
-      }
-    ],
+        {
+          text: 'Get Started',
+          items: [
+            { text: 'Introduction', link: '/docs/intro' },
+            { text: 'Getting Started', link: '/docs/getting-started' },
+            { text: 'Hand Sign', link: '/docs/handsign' },
+            { text: 'Jutsu', link: '/docs/jutsu' },
+            { text: 'Speech', link: '/docs/speech' },
+          ],
+        },
+        {
+          text: 'Further Reading',
+          items: [
+            { text: 'Detection Model', link: '/docs/model' }
+          ]
+        }
+      ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/shinobi-c0de/' }
