@@ -25,22 +25,23 @@ hero:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-<h3> Coming Soon ...</h3>
-<h4>Meanwhile listen and enjoy to this masterpiece. (Please use earphones)</h4>
-    <div align="center" style="padding:2rem 0">
-        <img width="80%" src="/naruto-jiraiya.jpg" title="Source: Google Images"/>
-    </div>
+### Coming Soon ...
+Meanwhile listen and enjoy to this masterpiece. (Please use earphones)
 
-<div style="background-color:;">
-(If the audio doesn't play automatically, click anywhere on the page to start it.)
-<p>Audio Source: 
-    <a href="https://youtu.be/_6N9f1ad9Ow?si=kB5eg5t7SS_ErKJk" target="_blank">https://youtu.be/_6N9f1ad9Ow?si=kB5eg5t7SS_ErKJk</a>
+<p align="center" style="padding:2rem 0">
+    <img width="80%" src="/naruto-jiraiya.jpg" title="Source: Google Images"/>
 </p>
+
+::: info Note
+If the audio doesn't play automatically, click anywhere on the page to start it.
+:::
+
+Audio Source: [https://youtu.be/_6N9f1ad9Ow?si=kB5eg5t7SS_ErKJk](https://youtu.be/_6N9f1ad9Ow?si=kB5eg5t7SS_ErKJk)
+
 <audio id="myaudio" autoplay>
     <source src="/samidare.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
-</div>
 
 <script>
   if (typeof window !== 'undefined' && typeof document !== 'undefined') {
