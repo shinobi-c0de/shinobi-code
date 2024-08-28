@@ -8,4 +8,6 @@ Shinobi Code is capable of detecting all the below 12 handsigns plus the [Clap](
   <img src="/HandSign.jpg" />
 </div>
 
+::: info
 Source: [https://naruto.fandom.com/wiki/Hand_Seal](https://naruto.fandom.com/wiki/Hand_Seal)
+:::

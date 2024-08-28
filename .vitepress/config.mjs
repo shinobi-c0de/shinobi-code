@@ -30,7 +30,9 @@ export default defineConfig({
         {
           text: 'Further Reading',
           items: [
-            { text: 'Detection Model', link: '/docs/model' }
+            { text: 'Disclaimer', link: '/docs/disclaimer' },
+            { text: 'Detection Model', link: '/docs/model' },
+            { text: 'Known Issues', link: '/docs/issues' },
           ]
         }
       ],

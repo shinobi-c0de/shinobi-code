@@ -6,7 +6,7 @@
       <div class="feature-item">
         <img src="/undraw/undraw_click_here.svg" alt="Feature 1">
         <h3>One Click Install</h3>
-        <p>Shinobi-Code is a webapp, no need to download any dependencies.
+        <p>Shinobi Code is a webapp, no need to download any dependencies.
           Zero headaches with PIP/NPM.</p>
       </div>
       <div class="feature-item">
