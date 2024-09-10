@@ -8,12 +8,13 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
   ignoreDeadLinks: true,
+  srcExclude: ['**/README.md'],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: { light: '/shinobi-dark.png', dark: '/shinobi-light.png', alt: 'Shinobi Code Logo'},
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Get Started', link: '/docs/intro' }
+      { text: 'Docs', link: '/docs/intro' }
     ],
 
     sidebar: [
@@ -25,14 +26,15 @@ export default defineConfig({
             { text: 'Hand Sign', link: '/docs/handsign' },
             { text: 'Jutsu', link: '/docs/jutsu' },
             { text: 'Speech', link: '/docs/speech' },
+            { text: 'Disclaimer', link: '/docs/disclaimer' },
           ],
         },
         {
           text: 'Further Reading',
           items: [
-            { text: 'Disclaimer', link: '/docs/disclaimer' },
             { text: 'Detection Model', link: '/docs/model' },
             { text: 'Known Issues', link: '/docs/issues' },
+            { text: 'References', link: '/docs/references' }
           ]
         }
       ],
@@ -42,7 +44,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Built with ❤️ in this chaotic world. Built with <a href="https://vitepress.dev/" target="_blank">VitePress</a>',
+      message: 'Built with ❤️ in this chaotic world. Built using <a href="https://vitepress.dev/" target="_blank">VitePress</a>',
       copyright: `Copyright © ${new Date().getFullYear()} <a href="https://github.com/shinobi-c0de" target="_blank">Shinobi Code</a>`
     }
   }

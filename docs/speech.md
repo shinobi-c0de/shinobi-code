@@ -12,16 +12,20 @@ Below is a list of Speech2Text in English and Japanese language with pronunciati
 | 3     | Reanimation Jutsu           | Edo Tensei             |                        |                                            |
 | 4     | Release                     | NA                     |                        |                                            |
 | 5     | Fire Release Fireball Jutsu | Katon Gokakyu no Jutsu |                        | Please try to say this one without breaks. |
-| 6     | Chidori                     | NA                     |                        |                                            |
+| 6     | NA                          | Chidori                |                        |                                            |
 | 7     | Sage mode                   | Sennin modo            |                        |                                            |
 | 8     | Almighty push               | Shinra Tensei          | Shinda Tensei          |                                            |
-| 9     | Universal Pull              | Bansho Tenin           |                        | Ja speech is not detected                  |
+| 9     | Universal Pull              | Bansho Tenin           |                        | Ja speech is not detected.                 |
 | 10    | Planetary Devastation       | Chibaku Tensei         | Jibaku Tensei          |                                            |
-| 11    | Sharingan                   | NA                     |                        |                                            |
-| 12    | Genjutsu                    | NA                     |                        |                                            |
-| 13    | Izanagi                     | NA                     |                        |                                            |
+| 11    | NA                          | Sharingan              |                        |                                            |
+| 12    | NA                          | Genjutsu               |                        |                                            |
+| 13    | NA                          | Izanagi                | With 'Zzz' sound.      |                                            |
 | 14    | Kakashi of the Sharingan    | NA                     |                        |                                            |
-| 15    | Izanami                     | NA                     |                        |                                            |
-| 16    | Susanoo                     | NA                     | Susanoooooo            |                                            |
-| 17    | Amaterasu                   | NA                     |                        |                                            |
-| 18    | Kamui                       | NA                     | Ka-mu-ee or ka-moi     |                                            |
+| 15    | NA                          | Izanami                | With 'Zzz' sound.      |                                            |
+| 16    | NA                          | Susanoo                | Susano                 |                                            |
+| 17    | NA                          | Amaterasu              |                        |                                            |
+| 18    | NA                          | Kamui                  | Ka-mu-ee or ka-moi     |                                            |
+
+::: info Note
+Please try to say each Jutsu name loud and crisp for Speech2Text to detect correctly, especially in Japanese language.
+:::

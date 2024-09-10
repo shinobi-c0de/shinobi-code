@@ -1,7 +1,8 @@
 # Jutsu
 
-Jutsu (**literal meaning: techniques/arts/skills**)  
-To use a ninjutsu, the ninja will form hand seals/hand signs.
+_**literal meaning:** techniques/arts/skills_
+
+To use a ninjutsu, the ninja will form hand seals/signs.
 In  short, one or more hand signs form a Jutsu.
 
 ## Jutsu List
@@ -9,16 +10,16 @@ In  short, one or more hand signs form a Jutsu.
 Following table represents each Jutsu, their type and handsigns that need to be performed respectively.  
 
 
-| S.No. | Jutsu                       | Type      | Hand Signs                                                         | Remarks |
-| ----- | --------------------------- | --------- | ------------------------------------------------------------------ | ------- |
-| 1     | Shadow Clone Jutsu          | Jutsu     | Ram→Snake→Tiger                                                    | [Shadow clone seal](https://naruto.fandom.com/wiki/Shadow_Clone_Technique) (plus hand sign) is a special hand sign and is not a part of the handsigns mentioned in [Hand Sign](/docs/handsign), hence need to fine-tune model. Will probably do that in V2. For the time being, please use [clone seal](https://naruto.fandom.com/wiki/Clone_Technique). |
+| S.No. | Jutsu                       | Type      | Hand Signs                                                         | Remarks                                            |
+| ----- | --------------------------- | --------- | ------------------------------------------------------------------ | -------------------------------------------------- |
+| 1     | Shadow Clone Jutsu          | Jutsu     | Ram→Snake→Tiger                                                    | [Shadow clone seal](https://naruto.fandom.com/wiki/Shadow_Clone_Technique) (plus hand sign) is a special hand sign and is not a part of the handsigns mentioned in [Hand Sign](/docs/handsign) page, hence need to fine-tune model. Will probably do that in V2. For the time being, please use [clone seal](https://naruto.fandom.com/wiki/Clone_Technique). |
 | 2     | Summoning Jutsu             | Jutsu     | Boar→Dog→Bird→<br>Monkey→Ram                                       |         |
 | 3     | Reanimation Jutsu           | Jutsu     | Tiger→Snake→Dog→<br>Dragon→Clap                                    |         |
 | 4     | Release                     | Jutsu     | Tiger                                                              |         |
 | 5     | Fire Release Fireball Jutsu | Jutsu     | Snake→Ram→Monkey→<br>Boar→Horse→Tiger                              |         |
-| 6     | Chidori                     | Jutsu     | Ox→Hare→Monkey<br>Dragon→Rat→Bird<br>Ox→Snake→Dog→<br>Tiger→Monkey | Can also be performed using<br> Ox → Hare → Monkey just in case, if you are tired of using long hand signs. |
-| 7     | Sage mode                   | Jutsu     | Tiger                                                              |         |
-| 8     | Almighty push               | Rinnegan  | Clap                                                               |         |
+| 6     | Chidori                     | Jutsu     | Ox→Hare→Monkey<br>Dragon→Rat→Bird<br>Ox→Snake→Dog→<br>Tiger→Monkey | Can also be performed using<br> **Ox → Hare → Monkey** just in case, if you are tired of using long hand signs. |
+| 7     | Sage mode                   | Jutsu     | Tiger                                                              | Sage mode eyes not available yet |
+| 8     | Almighty push               | Rinnegan  | Clap                                                               | Rinnegan eyes not available yet |
 | 9     | Universal Pull              | Rinnegan  | Clap                                                               |         |
 | 10    | Planetary Devastation       | Rinnegan  | Clap                                                               |         |
 | 11    | Sharingan                   | Sharingan | Ram                                                                |         |

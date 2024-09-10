@@ -11,7 +11,7 @@ hero:
       text: Get Started
       link: /docs/getting-started
     - theme: alt
-      text: Demo
+      text: Launch
       link: https://www.example.com
 
 
