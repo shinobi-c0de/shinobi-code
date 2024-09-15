@@ -26,7 +26,7 @@ hero:
 
 
 <script setup>
-import Feature from '/src/components/Feature.vue'
+import Feature from './.vitepress/theme/components/Feature.vue'
 </script>
 
 <Feature />

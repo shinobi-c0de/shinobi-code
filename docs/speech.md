@@ -14,7 +14,7 @@ Below is a list of Speech2Text in English and Japanese language with pronunciati
 | 5     | Fire Release Fireball Jutsu | Katon Gokakyu no Jutsu |                        | Please try to say this one without breaks. |
 | 6     | NA                          | Chidori                |                        |                                            |
 | 7     | Sage mode                   | Sennin modo            |                        |                                            |
-| 8     | Almighty push               | Shinra Tensei          | Shinda Tensei          |                                            |
+| 8     | Almighty Push               | Shinra Tensei          | Shinda Tensei          |                                            |
 | 9     | Universal Pull              | Bansho Tenin           |                        | Ja speech is not detected.                 |
 | 10    | Planetary Devastation       | Chibaku Tensei         | Jibaku Tensei          |                                            |
 | 11    | NA                          | Sharingan              |                        |                                            |

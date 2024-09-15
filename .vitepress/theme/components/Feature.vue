@@ -4,21 +4,24 @@
   <section class="features-section">
     <div class="features-container">
       <div class="feature-item">
-        <img src="/undraw/undraw_click_here.svg" alt="Feature 1">
+        <img src="/undraw/undraw_done.svg" alt="Feature 1">
         <h3>One Click Install</h3>
-        <p>Shinobi Code is a webapp, no need to download any dependencies.
+        <p>Shinobi Code is a VSCode Extension, no need to download any dependencies.
           Zero headaches with PIP/NPM.</p>
       </div>
       <div class="feature-item">
         <img src="/undraw/undraw_outer_space.svg" alt="Feature 2">
         <h3>Fast and Modern</h3>
         <p>Perform a variety of Jutsu as seen in Naruto anime.
-          Instantly detects and is lightweight on memory.</p>
+          Instantly detects and is lightweight on memory.<br>
+          Well Documented.</p>
       </div>
       <div class="feature-item">
         <img src="/undraw/undraw_questions.svg" alt="Feature 3">
         <h3>Do you need Help?</h3>
-        <p>Are you encountering problems? Then you can create an issue or discussion topic on GitHub so that others can help you.</p>
+        <p>Are you encountering problems?<br>
+          Then you can create an issue or discussion topic on GitHub so that others can help you.
+        </p>
       </div>
     </div>
   </section>

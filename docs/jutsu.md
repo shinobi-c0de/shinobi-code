@@ -9,8 +9,7 @@ In  short, one or more hand signs form a Jutsu.
 
 Following table represents each Jutsu, their type and handsigns that need to be performed respectively.  
 
-
-| S.No. | Jutsu                       | Type      | Hand Signs                                                         | Remarks                                            |
+| S.No. | Jutsu                       | Type      | Hand Signs                                                         |Remarks                                            |
 | ----- | --------------------------- | --------- | ------------------------------------------------------------------ | -------------------------------------------------- |
 | 1     | Shadow Clone Jutsu          | Jutsu     | Ram→Snake→Tiger                                                    | [Shadow clone seal](https://naruto.fandom.com/wiki/Shadow_Clone_Technique) (plus hand sign) is a special hand sign and is not a part of the handsigns mentioned in [Hand Sign](/docs/handsign) page, hence need to fine-tune model. Will probably do that in V2. For the time being, please use [clone seal](https://naruto.fandom.com/wiki/Clone_Technique). |
 | 2     | Summoning Jutsu             | Jutsu     | Boar→Dog→Bird→<br>Monkey→Ram                                       |         |

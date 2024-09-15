@@ -1,6 +1,7 @@
 # Detection Model
 
 ## Hand Sign Detection Model
+
 As mentioned in [disclaimer](/docs/disclaimer) page, the model we used to detect handsigns is a publically available model and is created by [Kazuhito](https://github.com/Kazuhito00) san. Thanks to his good work, we were able to develop this project sooner than expected.
 
 If you take a glance at our code and Kazuhito san's, you will notice a lot of similarity.  
