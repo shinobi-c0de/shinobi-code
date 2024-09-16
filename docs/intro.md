@@ -11,4 +11,6 @@ Mina, hope you all got enough chakra!
 
 Please proceed to [Getting Started](getting-started) to try out the features.
 
+::: info Note
 Shinobi Code is a Free and Open Source Software.
+:::

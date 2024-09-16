@@ -1,7 +1,7 @@
 # Getting Started
 
-Shinobi Code is VSCode Extension but that doesn't mean we are going to leave the non-devs in the dark.
-For non-devs, please visit the [demo website](https://demo.shinobi-code.com).
+Shinobi Code is a VSCode Extension but that doesn't mean we are going to leave the non-devs in the dark.
+For non-devs, please visit the [demo website](https://www.example.com).
 
 ::: info Note
 VSCode Extension is still in development..  
@@ -17,6 +17,10 @@ For the time being, please use the demo webapp.
 ## Follow below steps, after visting the demo site
 
 1. Click on the record button (Konoha Logo) to capture your speech and Handsigns.
+
+<div align="center">
+    <img width=80% src="/shinobi-code-button.png"/>
+</div>
 2. First, shout out any jutsu name loud and clear. (Please refer [Speech Text](speech) page)
 3. After speech text is identified correctly, perform the required hand signs as mentioned in [Jutsu](jutsu) page.
 4. If handsigns are performed correctly, jutsu should be detected. (Jutsu is diplayed at the footer of video)

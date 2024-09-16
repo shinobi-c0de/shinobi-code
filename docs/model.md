@@ -15,6 +15,6 @@ Also, it makes sense when you want to integrate this as a VSCode extension.
 ### About the model
 
 [NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection) repo offers two publically available models, one with post processing and one without.
-We have used the model without post-processing in version-1 so that we can build an MVP without worrying about any extra processing.
+We have used the model without post-processing in **Version 1** so that we can build an MVP without worrying about any extra processing.
 
-This will upgraded to the model with post processing in the near furture versions.
+This will be upgraded to the model with post processing in the near furture versions.
