@@ -10,4 +10,26 @@
   color: #FF7F00;
 }
 
-  
+.vp-doc .vp-button {
+  display: inline-block;
+  border: 1px solid transparent;
+  text-align: center;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: color 0.25s, border-color 0.25s, background-color 0.25s;
+  padding: 0 20px;
+  line-height: 38px;
+  font-size: 14px;
+  border-radius: 20px;
+}
+
+.vp-doc .vp-button.brand {
+  border-color: var(--vp-c-brand);
+  color: white;
+  text-decoration: none;
+  background-color: var(--vp-c-brand);
+}
+
+.vp-doc .vp-button.brand:hover {
+  background-color: var(--vp-c-brand-2);
+}
