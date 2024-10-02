@@ -7,9 +7,8 @@ This page describes the development state of the extension.
 
 There are two buttons:
 
-1. **Train** - Get a hang of all handsigns and jutsu before trying the real extension  
-(Launches [demo.shinobi-code.com](https://demo.shinobi-code.com))
-2. **Enter Shinobi World** - The real deal, get the Jutsu data from webapp and triggers commands based on Jutsu recieved (Launches [app.shinobi-code.com](https://app.shinobi-code.com))
+1. **Train** - Get a hang of all handsigns and jutsu before trying the real extension (Jutsu data is not sent to extension).
+1. **Enter Shinobi World** - The real deal, get the Jutsu data from webapp and triggers commands based on Jutsu recieved.
 
 Currently, **8/18** Jutsu are available to try in extension.
 

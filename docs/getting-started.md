@@ -1,8 +1,7 @@
 # Getting Started
 
-Shinobi Code is a VSCode Extension but that doesn't mean we are going to leave the  
-non-devs in the dark.
-For non-devs, please visit the [demo website](https://www.example.com).
+Shinobi Code is a VSCode Extension but that doesn't mean we are going to leave the non-devs in the dark.
+For non-devs, please visit the [app website](https://app.shinobi-code.com).
 
 ::: info Note
 VSCode Extension is still in development..  
@@ -11,9 +10,9 @@ For the time being, please use the demo webapp.
 
 ## Demo App
 
-**Shinobi Code** is in Alpha stage, please use the temporary URL that is shared with you.
+**Shinobi Code** is not launched, please use the demo web app for now.
 
-<a href="https://www.example.com" class="vp-button brand" target="_blank">Shinobi Code Demo</a>
+<a href="https://demo.shinobi-code.com" class="vp-button brand" target="_blank">Shinobi Code Demo</a>
 
 ## Follow below steps, after visting the demo site
 

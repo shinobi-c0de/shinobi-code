@@ -4,15 +4,15 @@ layout: home
 hero:
   name: "Shinobi Code"
   text: ""
-  tagline: "Code like a shinobi from your fav. anime Naruto"
+  tagline: "Unleash Your Inner Shinobi, Code using Ninjutsu from Naruto!"
 
   actions:
     - theme: brand
       text: Get Started
       link: /docs/getting-started
     - theme: alt
-      text: Launch
-      link: https://www.example.com
+      text: Launch App
+      link: https://app.shinobi-code.com
 
 
 #features:

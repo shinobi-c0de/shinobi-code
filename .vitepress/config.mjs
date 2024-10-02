@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Shinobi Code",
   description: "Code like a shinobi from your fav. anime Naruto",
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/shinobi-light.png' }],
   ],
   ignoreDeadLinks: true,
   srcExclude: ['**/README.md'],
