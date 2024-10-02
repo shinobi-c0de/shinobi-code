@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Shinobi Code"
   text: ""
-  tagline: "Code like a shinobi from your fav. anime Naruto"
+  tagline: "Unleash Your Inner Shinobi, Code using Ninjutsu from Naruto!"
 
   #actions:
   #  - theme: brand
@@ -25,8 +25,9 @@ hero:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-### Coming Soon ...
-Meanwhile listen and enjoy to this masterpiece. (Please use earphones)
+## Coming Soon ...
+
+### Meanwhile listen and enjoy to this masterpiece. (Please use earphones)
 
 <p align="center" style="padding:2rem 0">
     <img width="80%" src="/naruto-jiraiya.jpg" title="Source: Google Images"/>
