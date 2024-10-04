@@ -1,7 +1,19 @@
 # Getting Started
 
 Shinobi Code is a VSCode Extension but that doesn't mean we are going to leave the non-devs in the dark.
-For non-devs, please visit the [app website](https://app.shinobi-code.com).
+
+For non-devs, please click below button.
+
+<a href="https://app.shinobi-code.com" class="vp-button brand" target="_blank">Shinobi Code App</a>
+
+For devs, click below button and install the extension.
+
+<div style="display: flex; align-items: center;">
+    <a href="https://marketplace.visualstudio.com/items?itemName=your-extension-id" class="vp-button brand" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
+        <img src="/vscode.png" style="width: 20px; height: 20px; margin-right: 8px;">
+        Get it on VS Code Marketplace
+    </a>
+</div>
 
 ::: info Note
 VSCode Extension is still in development..  

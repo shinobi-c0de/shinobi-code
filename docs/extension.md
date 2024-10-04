@@ -7,12 +7,14 @@ This page describes the development state of the extension.
 
 There are two buttons:
 
-1. **Train** - Get a hang of all handsigns and jutsu before trying the real extension (Jutsu data is not sent to extension).
-1. **Enter Shinobi World** - The real deal, get the Jutsu data from webapp and triggers commands based on Jutsu recieved.
+1. **Train** - Get a hang of all handsigns and jutsu before trying the extension (Jutsu data is not sent to extension).
+2. **Enter Shinobi World** - The real deal, get the Jutsu data from webapp and triggers commands based on Jutsu recieved.
 
-Currently, **8/18** Jutsu are available to try in extension.
+<img src="/shinobi-code-extension.png" style="height:360px;"/>
 
 ## Development State
+
+Currently, **8/18** Jutsu are available to try in extension.
 
 | S.No. | Jutsu                       | Function                              | Commands                                                                   | Status |
 | ----- | --------------------------- | ------------------------------------- | -------------------------------------------------------------------------- | :----: |
