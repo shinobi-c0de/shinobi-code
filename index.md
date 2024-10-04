@@ -25,12 +25,12 @@ hero:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-## Coming Soon ...
+### Coming Soon ...
 
 ### Meanwhile listen and enjoy to this masterpiece. (Please use earphones)
 
-<p align="center" style="padding:2rem 0">
-    <img width="80%" src="/naruto-jiraiya.jpg" title="Source: Google Images"/>
+<p style="padding:2rem 0">
+    <img src="/naruto-jiraiya.jpg" title="Source: Google Images"/>
 </p>
 
 ::: info Note
