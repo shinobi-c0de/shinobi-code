@@ -29,7 +29,17 @@
   text-decoration: none;
   background-color: var(--vp-c-brand);
 }
+.vp-doc .vp-button.vscode {
+  border-color: var(--vp-button-alt-border);
+  color: white;
+  text-decoration: none;
+  background-color: var(--vp-button-alt-bg);
+}
 
 .vp-doc .vp-button.brand:hover {
   background-color: var(--vp-c-brand-2);
+}
+
+.vp-doc .vp-button.vscode:hover {
+  background-color: var(--vp-button-alt-hover-bg);
 }

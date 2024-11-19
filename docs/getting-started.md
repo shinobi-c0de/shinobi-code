@@ -9,9 +9,9 @@ For non-devs, please click below button.
 For devs, click below button and install the extension.
 
 <div style="display: flex; align-items: center;">
-    <a href="https://marketplace.visualstudio.com/items?itemName=your-extension-id" class="vp-button brand" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
+    <a href="https://marketplace.visualstudio.com/items?itemName=your-extension-id" class="vp-button vscode" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
         <img src="/vscode.png" style="width: 20px; height: 20px; margin-right: 8px;">
-        Get it on VS Code Marketplace
+        Download Extension
     </a>
 </div>
 

@@ -50,7 +50,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/shinobi-c0de/' },
-      //{ icon: 'discord', link: 'https://discord.gg/CJTMrDdBct' },
+      { icon: 'discord', link: 'https://discord.gg/5ttwEvRrYt' },
     ],
 
     footer: {

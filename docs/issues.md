@@ -17,3 +17,7 @@ Idle memory consumption is around 70% in Windows and 19.75% in Ubuntu
 
 Inaccuracies in handsigns can be observed (mostly conflict with "Bird" handsign) as we are using the model without post-processing.  
 To read more, go to [detection model](/docs/model) page.
+
+## 3. Sharingan
+
+Lag in video when sharingan is used for first time. Probably a bug, will fix this.
