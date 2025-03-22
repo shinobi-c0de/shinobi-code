@@ -9,7 +9,7 @@ So get your markers and strikeout "~~**Do shadow clone jutsu like Naruto**~~" fr
 
 Mina, hope you all got enough chakra!
 
-Please proceed to [Getting Started](getting-started) to try out the features.
+Please proceed to [Getting Started](/docs/get-started/getting-started) to try out the features.
 
 ::: info Note
 Shinobi Code is a Free and Open Source Software.

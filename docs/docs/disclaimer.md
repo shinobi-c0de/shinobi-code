@@ -9,4 +9,4 @@ Shinobi Code needs the following media access to function properly:
 ## Model
 The HandSign detection model which is used in this project is a publically available model and not owned by us.
 Thanks to the efforts of [Kazuhito](https://github.com/Kazuhito00) san.  
-Read more about the model [here](/docs/model.md).
+Read more about the model [here](/docs/model).

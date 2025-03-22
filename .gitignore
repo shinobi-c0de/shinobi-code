@@ -1,27 +1,14 @@
-# Node modules
-/node_modules/
-
-# Build output
-/.vitepress/dist/
-
-# VitePress cache
-/.vitepress/cache/
-
-# Environment variables
-.env
-.env.*
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# System files
+# Local
 .DS_Store
-Thumbs.db
+*.local
+*.log*
 
-# IDE/editor settings
-.vscode/
+# Dist
+node_modules
+dist/
+doc_build/
 
-
-/old
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
