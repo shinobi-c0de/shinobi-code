@@ -17,12 +17,12 @@ hero:
     alt: Logo
 features:
   - title: One Click Install
-    details: Shinobi-Code is a webapp, no need to download any dependencies. Zero headaches with PIP/NPM.
+    details: Shinobi Code is a webapp, no need to download any dependencies. Zero headaches with PIP/NPM.
     icon: 📦
   - title: Fast and Modern
-    details: Perform a variety of Jutsus as seen in Naruto anime. Instantly detects and is lightweight on memory.
+    details: Perform a variety of Jutsu as seen in Naruto anime. Instantly detects and is lightweight on memory.
     icon: 🚀
   - title: Do you need Help?
-    details: Are you encountering problems? Then you can create an issue or discussion topic on GitHub so that others can help you.
+    details: Are you encountering problems ? Then you can create an issue or discussion topic on GitHub so that others can help you.
     icon: 🤝
 ---
