@@ -1,0 +1,5 @@
+name = "shinobi-code-docs"
+compatibility_date = "2025-07-09"
+
+[assets]
+directory = "./doc_build"
