@@ -11,7 +11,7 @@ hero:
       link: /docs/
     - theme: alt
       text: Launch App
-      link: https://app.shinobi-code.com
+      link: https://app.shinobicode.dev
   image:
     src: /naruto-logo.png
     alt: Logo
