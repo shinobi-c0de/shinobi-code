@@ -16,23 +16,142 @@ There are two buttons:
 
 Currently, **8/18** Jutsu are available to try in extension.
 
-| S.No. | Jutsu                       | Function                              | Commands                                                                   | Status |
-| ----- | --------------------------- | ------------------------------------- | -------------------------------------------------------------------------- | :----: |
-|   1   | Shadow Clone Jutsu          | Clone from copied repo URL            | Get URL from clipboard,validate, get clone path from user and do git clone | ✅ |
-|   2   | Summoning Jutsu             | Summon a solution from stackoverflow  | Do a google search and return top URL from stackoverflow using copied text (mostly for searching solutions for error)| ✅ |
-|   3   | Reanimation Jutsu           | Restart VSCode                        | Restart VSCode                                                             | ✅ |
-|   4   | Release                     | Paste text from clipboard             | Paste text in VSCode to a cursor location                                  | ✅ |
-|   5   | Fire Release Fireball Jutsu |                                       |                                                                            | - |
-|   6   | Chidori                     |                                       |                                                                            | - |
-|   7   | Sage mode                   |                                       |                                                                            | - |
-|   8   | Almighty Push               | Push code to repo                     |                                                                            | - |
-|   9   | Universal Pull              | Pull code from repo                   |                                                                            | - |
-|   10  | Planetary Devastation       | Close VSCode                          | Shutdown VSCode                                                            | ✅ |
-|   11  | Sharingan                   | Start Debugging                       | Start a debugging session                                                  | ✅ |
-|   12  | Genjutsu                    | Create Virtual Environment            | Detects the nature of project (python or JS and runs command to create venv or package.json respectively) | - |
-|   13  | Izanagi                     |                                       |                                                                            | - |
-|   14  | Kakashi of the Sharingan    | Copy text to clpboard                 | Copy selected text to clipboard                                            | ✅ |
-|   15  | Izanami                     |                                       |                                                                            | - |
-|   16  | Susanoo                     | Install packages                      | Automatically install packages (python or JS)                              | - |
-|   17  | Amaterasu                   | Runs code                             | Runs code using commands (python or JS)                                    | - |
-|   18  | Kamui                       | Cut text to clipboard                 | Copy selected text to clipboard and delete text                            | ✅ |
+<table className="jutsu-table">
+    <thead>
+        <tr>
+        <th style={{width: "75px"}}>S.No.</th>
+        <th style={{width: "150px"}}>Jutsu</th>
+        <th style={{width: "150px"}}>Function</th>
+        <th style={{width: "200px"}}>Commands</th>
+        <th style={{width: "75px"}}>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Shadow Clone Jutsu</td>
+            <td>Clone from copied repo URL</td>
+            <td>Get URL from clipboard,validate, get clone path from user and do git clone</td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Summoning Jutsu</td>
+            <td>Summon a solution from stackoverflow</td>
+            <td>Do a google search and return top URL from stackoverflow using copied text (mostly for searching solutions for error)</td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Reanimation Jutsu </td>
+            <td>Restart VSCode</td>
+            <td>Restart VSCode</td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Release</td>
+            <td>Paste text from clipboard</td>
+            <td>Paste text in VSCode to a cursor location</td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Fire Release Fireball Jutsu</td>
+            <td></td>
+            <td></td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Chidori</td>
+            <td></td>
+            <td></td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Sage mode</td>
+            <td></td>
+            <td></td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Almighty Push</td>
+            <td>Push code to repo</td>
+            <td></td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Universal Pull</td>
+            <td>Pull code from repo</td>
+            <td></td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Planetary Devastation</td>
+            <td>Close VSCode</td>
+            <td>Shutdown VSCode </td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Sharingan</td>
+            <td>Start Debugging</td>
+            <td>Start a debugging session</td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Genjutsu</td>
+            <td>Create Virtual Environment</td>
+            <td>Detects the nature of project (python or JS and runs command to create venv or package.json respectively)</td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Izanagi</td>
+            <td></td>
+            <td></td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Kakashi of the Sharingan</td>
+            <td>Copy text to clpboard</td>
+            <td>Copy selected text to clipboard</td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Izanami</td>
+            <td></td>
+            <td></td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Susanoo</td>
+            <td>Install packages</td>
+            <td>Automatically install packages (python or JS)</td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Amaterasu</td>
+            <td>Runs code</td>
+            <td>Runs code using commands (python or JS)</td>
+            <td style={{textAlign: 'center'}}>-</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Kamui</td>
+            <td>Cut text to clipboard</td>
+            <td>Copy selected text to clipboard and delete text</td>
+            <td style={{textAlign: 'center'}}>✅</td>
+        </tr>
+    </tbody>
+</table>

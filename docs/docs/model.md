@@ -2,10 +2,9 @@
 
 ## Hand Sign Detection Model
 
-As mentioned in [disclaimer](/docs/disclaimer) page, the model I used to detect handsigns is a publically available model and is created by [Kazuhito](https://github.com/Kazuhito00) san. Thanks to his good work, I was able to develop this project sooner than expected.
+As mentioned in [disclaimer](/docs/disclaimer) page, the model I used to detect handsigns is a publically available model and is created by [Kazuhito](https://github.com/Kazuhito00) san.
 
-If you take a glance at my code and Kazuhito san's, you will notice a lot of similarity.  
-This is basically a port of python code to Javascript built on top of Kazuhito san's work to address the limitations.
+This project is basically a port of python code to Javascript built on top of Kazuhito san's work to address the limitations.
 
 The python code requires one to install dependencies and setup properly which can only be done by another developer or someone who knows the basics of python language.  
 But I wanted to keep the entry barrier low and let even the non-devs to experience this.

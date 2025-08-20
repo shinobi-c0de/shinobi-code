@@ -23,6 +23,33 @@
     --rp-code-block-bg: rgba(214, 188, 70, 0.05);
   }
 
+.jutsu-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  table-layout: fixed; /* allows custom widths */
+}
+
+.jutsu-table th,
+.jutsu-table td {
+  border: 1px solid #444;
+  padding: 8px 12px;
+  text-align: left;
+  white-space: normal;     /* allow line breaks */
+  word-wrap: break-word;   /* break long content */
+  overflow-wrap: break-word;
+}
+
+.jutsu-table th {
+  color: #ff7f00;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
+
+
 .navBarTitle {
   color: #c26c1d !important;
 }
