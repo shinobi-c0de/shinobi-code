@@ -16,7 +16,7 @@ export function VSButton() {
                     Download Extension
                 </span>} 
                 type='a'
-                href="https://marketplace.visualstudio.com/items?itemName=your-extension-id"
+                href="https://marketplace.visualstudio.com/items?itemName=theyash.shinobicode"
                 external={false}
             />
     );
