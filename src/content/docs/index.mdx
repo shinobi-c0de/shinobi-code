@@ -1,0 +1,44 @@
+---
+title: Welcome to Starlight
+description: Get started building your docs site with Starlight.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  title: |
+    <span
+      class="font-black text-transparent
+        bg-clip-text bg-gradient-to-b
+        from-orange-700 to-orange-400
+        dark:from-orange-500 dark:to-orange-400"
+    >
+      Shinobi Code
+    </span>
+  tagline: Unleash Your Inner Shinobi, Code using Ninjutsu from Naruto!
+  image:
+    file: ../../assets/naruto-logo.png
+  actions:
+    - text: Get started
+      link: /getting-started/intro
+      icon: right-arrow
+    - text: Launch App
+      link: https://app.shinobicode.dev
+      icon: external
+      variant: secondary
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Features
+
+<CardGrid stagger>
+	<Card title="One Click Install" icon="cloud-download">
+		Shinobi Code is a webapp, no need to download any dependencies. Zero headaches with PIP/NPM.
+	</Card>
+	<Card title="Fast and Modern" icon="rocket">
+		Perform a variety of Jutsu as seen in Naruto anime. Instantly detects and is lightweight on memory.
+	</Card>
+	<Card title="Need Help?" icon="heart">
+		Are you encountering problems ? Then you can create an issue or discussion topic on GitHub so that others can help you.
+	</Card>
+</CardGrid>
+
+

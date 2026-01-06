@@ -1,26 +1,20 @@
 {
-  "name": "shinobi-code-docs",
-  "version": "1.0.0",
-  "private": true,
+  "name": "shinobi-code-starlight",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "build": "rspress build",
-    "check": "biome check --write",
-    "dev": "rspress dev",
-    "format": "biome format --write",
-    "preview": "rspress preview"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "dependencies": {
-    "rspress": "1.45.1"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "2.2.0",
-    "@types/node": "24.3.0",
-    "@types/react": "19.1.10",
-    "@types/react-dom": "19.1.7",
-    "react": "19.1.1",
-    "react-dom": "19.1.1",
-    "typescript": "5.9.2",
-    "wrangler": "4.31.0"
-  },
-  "packageManager": "pnpm@10.4.1+sha512.c753b6c3ad7afa13af388fa6d808035a008e30ea9993f58c6663e2bc5ff21679aa834db094987129aa4d488b86df57f7b634981b2f827cdcacc698cc0cfb88af"
+    "@astrojs/starlight": "^0.37.1",
+    "@astrojs/starlight-tailwind": "^4.0.2",
+    "@tailwindcss/vite": "^4.0.7",
+    "astro": "^5.6.1",
+    "sharp": "^0.34.2",
+    "tailwindcss": "^4.0.7"
+  }
 }
