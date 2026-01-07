@@ -9,12 +9,20 @@
 	Configure your Tailwind theme that will be used by Starlight.
 	https://starlight.astro.build/guides/css-and-tailwind/#styling-starlight-with-tailwind
 	*/
+	
+	--color-accent-200: var(--color-orange-400);
+	
 }
 
 /*
 Add additional Tailwind styles to this file:
 https://tailwindcss.com/docs/adding-custom-styles#using-custom-css
 */
+
+/*:root {
+  --sl-color-text-invert: white;
+  --sl-color-text-accent: var(--color-orange-400);
+}*/
 
 @layer components {
 	/* Site title styles */
@@ -23,6 +31,11 @@ https://tailwindcss.com/docs/adding-custom-styles#using-custom-css
 	}
 	.site-title span {
 		@apply dark:text-white hover:text-orange-400 transition-colors;
+	}
+	
+	/* Sidebar content - Invert text color */
+	.sidebar-content {
+		--sl-color-text-invert: var(--color-white);
 	}
 
 	/* Primary button (Get started) - Orange */
