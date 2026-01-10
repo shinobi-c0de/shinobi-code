@@ -1,7 +1,8 @@
 {
   "name": "shinobi-code-docs",
+  "workers_dev": false,
   "compatibility_date": "2026-01-07",
   "assets": {
-    "directory": "./dist",
+    "directory": "./dist"
   }
 }

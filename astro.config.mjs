@@ -9,9 +9,9 @@ export default defineConfig({
 		starlight({
 			title: 'Shinobi Code',
 			logo: {
-				light: './src/assets/shinobi-code-logo-black.png',
-				dark: './src/assets/shinobi-code-logo-white.png',
+				src: './src/assets/shinobi-code-logo.png',
 			},
+			favicon: 'favicon.png',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/shinobi-c0de' }],
 			sidebar: [
 				{
@@ -39,7 +39,8 @@ export default defineConfig({
 				}
 			],
 			components: {
-				Footer: './src/components/footer.astro',
+				Footer: './src/components/Footer.astro',
+				ThemeSelect: './src/components/NoThemeSelect.astro',
 			},
 			customCss: ['./src/styles/global.css'],
 		}),
